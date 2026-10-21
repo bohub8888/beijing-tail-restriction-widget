@@ -1,0 +1,5 @@
+# 永远不上传签名密钥
+*.keystore
+*.jks
+keystore.properties
+local.properties
